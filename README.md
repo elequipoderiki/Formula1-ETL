@@ -3,3 +3,6 @@
 ETL from the Ergast Developer API. It is a web service which provides Formula 1 historical data. 
 Using Databrics Delta Lake and Azure Data Factory a ETL process is used to get historical info about races, drivers and make analysis such as the best historical constructors, top ten drivers by year range, etc.
 
+![My Image](../dashboard-img/"Report on Dominant Formula 1 Drivers.png")
+
+<img src="../dashboard-img/Report on Dominant Formula 1 Drivers.png" alt="Alt text" title="Optional title">
